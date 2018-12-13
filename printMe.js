@@ -1,2 +1,3 @@
 var name = 'CC';
-console.log('my name is ' + name);
+var title = 'developer'
+console.log('my name is ' + name + '\n' + 'my title is ' + title);
